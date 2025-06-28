@@ -48,6 +48,7 @@ npm run dev
 
 4. Abra http://localhost:5173 no navegador.
 
+
 🗄️ Acessar banco de dados (SQLite)
 Abra o VS Code com o projeto.
 
@@ -57,7 +58,9 @@ Clique em Add Connection, escolha banco.sqlite.
 
 Navegue pelas tabelas e faça consultas.
 
+
 ✅ Funcionalidades (parcial)
+ 
  Cadastro de usuários fictícios
 
  Registro de metas e gastos
